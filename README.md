@@ -118,3 +118,10 @@ Never stop learning 🚀
 <div align="center">
 
 ### 🖤 "Turning ideas into code and code into experiences."
+
+<img src="https://komarev.com/ghpvc/?username=Moura0812&style=for-the-badge&color=0f172a"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:1e3a8a,100:3b82f6"/>
+
