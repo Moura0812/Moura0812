@@ -77,7 +77,7 @@ const Jorge = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,java,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,python,COBOL,mysql,git,github,Trello,vscode"/>
 
 </div>
 
