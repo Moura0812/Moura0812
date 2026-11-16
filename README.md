@@ -82,7 +82,7 @@ const Jorge = {
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="48" alt="Trello" style="vertical-align: middle;" />
   &nbsp;&nbsp;
-  <img src="https://sf-mensch.users.sourceforge.net/files/Shire.svg" height="48" alt="GnuCOBOL" style="vertical-align: middle;" />
+  <img src="./assets/gnucobol-shire.png" height="48" alt="GnuCOBOL" style="vertical-align: middle;" />
 </p>
 
 </div>
