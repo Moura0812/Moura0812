@@ -77,7 +77,11 @@ const Jorge = {
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,java,python,cobol,mysql,git,github,trello,vscode"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,python,mysql,git,github,vscode" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="48"/>
+  <img src="https://img.shields.io/badge/COBOL-242938?style=for-the-badge&logoColor=white" height="48"/>
+</p>
 
 </div>
 
