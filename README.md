@@ -43,12 +43,14 @@ const Jorge = {
  stack: {
     frontend: [
       "HTML",
-      "CSS".
+      "CSS",
+      "JS".
     ],
 
     backend: [
       "Java",
-      "Node.js",
+      "Python",
+      "COBOL".
     ],
 
     database: [
@@ -59,6 +61,7 @@ const Jorge = {
  tools: [
    "Git",
    "GitHub",
+   "Trello", 
    "VS Code".
  ],
 
