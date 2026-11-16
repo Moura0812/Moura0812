@@ -78,7 +78,11 @@ const Jorge = {
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,python,mysql,git,github,vscode,trello" height="48"/><img src="https://img.shields.io/badge/COBOL-1e222b?style=for-the-badge&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,python,mysql,git,github,vscode" height="48" style="vertical-align: middle;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="48" alt="Trello" style="vertical-align: middle;" />
+  &nbsp;&nbsp;
+  <img src="https://sf-mensch.users.sourceforge.net/files/shire_softened.png" height="48" alt="GnuCOBOL" style="vertical-align: middle;" />
 </p>
 
 </div>
