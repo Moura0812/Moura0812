@@ -77,7 +77,7 @@ const Jorge = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java,python,cobol,mysql,git,github,trello,vscode"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,java,python,cobol,mysql,git,github,trello,vscode"/>
 
 </div>
 
